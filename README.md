@@ -7,7 +7,7 @@
 
 - I´m working in Exxonmobil from Pantheon sice 2021, help the company to implement systems and tecnologies
 
- 
+ https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
 <!--
 **dennersam/dennersam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
