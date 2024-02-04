@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-## My name is Denner and I love code!
-## I love work with C#, Asp.Net, Java, Spring Boot, Angular, React and Database!
+- My name is Denner and I love code!
+- I love work with C#, Asp.Net, Java, Spring Boot, Angular, React and Database!
 
+### Company
+
+- I´m working in Exxonmobil from Pantheon sice 2021, help the company to implement systems and tecnologies
+
+ 
 <!--
 **dennersam/dennersam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
